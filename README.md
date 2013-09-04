@@ -12,3 +12,5 @@ mxmlc -static-link-runtime-shared-libraries=true -output=io.swf as/io.as
 
 Example of how to compile uploader.swf
 mxmlc -static-link-runtime-shared-libraries=true -output=flashuploader.swf as/FlashUploader.as
+
+You compile it, you own it. Know what you're doing.
