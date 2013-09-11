@@ -8,9 +8,9 @@ You can compile the flash code several ways. Below is one way to do it using the
 The latest flex sdk is available here: http://flex.apache.org/index.html 
 
 Example of how to compile io.swf
-mxmlc -static-link-runtime-shared-libraries=true -output=io.swf as/io.as
+`mxmlc -static-link-runtime-shared-libraries=true -output=io.swf as/io.as`
 
 Example of how to compile uploader.swf
-mxmlc -static-link-runtime-shared-libraries=true -output=flashuploader.swf as/FlashUploader.as
+`mxmlc -static-link-runtime-shared-libraries=true -output=flashuploader.swf as/FlashUploader.as`
 
 You compile it, you own it. Know what you're doing.
