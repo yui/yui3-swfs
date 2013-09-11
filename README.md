@@ -13,4 +13,4 @@ Example of how to compile io.swf
 Example of how to compile uploader.swf
 `mxmlc -static-link-runtime-shared-libraries=true -output=flashuploader.swf as/FlashUploader.as`
 
-You compile it, you own it. Know what you're doing.
+Please be aware of and always use best practices when compiling flash
